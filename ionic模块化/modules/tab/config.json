@@ -1,0 +1,5 @@
+{
+  "tab.controller": "controllers",
+  "tab.service": "services",
+  "tab.route": "routes"
+}

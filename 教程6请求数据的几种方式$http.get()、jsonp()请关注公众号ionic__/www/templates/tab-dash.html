@@ -1,0 +1,31 @@
+<ion-view view-title="Dashboard">
+  <ion-content class="padding">
+    <h2>Welcome to Ionic</h2>
+    <p>
+      <button ng-click="openPopover($event)">打开浮动框</button>
+    </p>
+    <input type="file"  name="{{$index}}"    accept="image/*" />
+    很高兴你对我的Demo感兴趣,
+    如果你还有什么其他的问题,可以通过以下方式找到我
+    QQ:448627663
+    E-mail:448627663@qq.com
+    新浪微博:小虎Oni
+    微信公众号:ionic__
+    CSDN博客:小虎Oni
+    CSDN博客地址：http://blog.csdn.net/onil_chen
+    注:公众号正在建设中。。。
+  </ion-content>
+</ion-view>
+<script id="my-popover.html" type="text/ng-template">
+  <ion-popover-view>
+    <ion-header-bar>
+      <h1 class="title"></h1>
+    </ion-header-bar>
+    <ion-content>
+ <div style="text-align: center">
+      <p class="item">进行微信授权</p>
+    </div>
+      <a class="button button-full button-balanced">确定</a>
+    </ion-content>
+  </ion-popover-view>
+</script>

@@ -1,0 +1,9 @@
+很高兴你对我的Demo感兴趣,
+如果你还有什么其他的问题,可以通过以下方式找到我
+QQ:448627663
+E-mail:448627663@qq.com
+新浪微博:小虎Oni
+微信公众号:ionic__
+CSDN博客:小虎Oni
+CSDN博客地址：http://blog.csdn.net/onil_chen
+注:公众号正在建设中。。。
